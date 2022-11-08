@@ -1,5 +1,5 @@
 """"
-Latian dasar perulangan.
+Latian dasar perulangan : dengan For
 Ibu menyuruh anak membaca buku sebanyak 100 buku
 """
 
